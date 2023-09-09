@@ -1,5 +1,6 @@
 #Problem Statement
 #Find the sum of all numbers below N which divide the sum of the factorial of their digits.
+#for eg: 19 >>> 1! + 9! = 1+362880 = 362881 which is also divisible by 19. Therfore it is a required number.
 
 #SOLUTION
 N = int(input()) #takesInput
